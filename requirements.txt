@@ -1,0 +1,8 @@
+flask
+pymongo
+hybrid_crypto
+qiskit
+qiskit_aer
+flask_bcrypt
+flask_jwt_extended
+flask_cors
